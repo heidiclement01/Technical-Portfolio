@@ -1,6 +1,6 @@
 # Linux Fundamentals I
 
-# Platform:  TryHackMe
+## Platform:  TryHackMe
 
 ## Learning Objectives:
 
